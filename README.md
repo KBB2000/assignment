@@ -28,4 +28,11 @@ All data is managed on the client side with JavaScript arrays (no backend).
 ---
 
 ## 📁 Project Structure
+1)main page
+![alt text](image.png)
 
+2)Add Employee
+![alt text](image-1.png)
+
+3) Filter
+![alt text](image-2.png)
